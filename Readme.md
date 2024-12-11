@@ -4,7 +4,7 @@ This repository is my space to experiment with various machine learning algorith
 
 Table of Contents
 
-1. Newton's Method for Linear Regression
+1. [Newton's Method for Linear Regression](https://github.com/Nakshjainsonigara/MLAE/blob/main/Newtons%20method.ipynb)
 
 
 
